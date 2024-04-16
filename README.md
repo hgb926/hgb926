@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align="center">
-
+<h2 align="center">TECH STACK</h2>
 ![header](https://capsule-render.vercel.app/api?type=waving&color=7F7FD5&text=%20KiBeom_Han%20%20&height=200&fontSize=60&fontColor=ffffff)
 <p align ="center">
   <img src="https://img.shields.io/badge/html5-E34F26?style=flat&logo=html5&logoColor=white"alt="HTML5 badge" width="80" height="30">
