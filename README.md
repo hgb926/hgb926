@@ -24,9 +24,10 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/html5-E34F26?style=flat&logo=html5&logoColor=white"alt="HTML5 badge" width="80" height="30">
   <img src="https://img.shields.io/badge/css3-1572B6?style=flat&logo=css3&logoColor=white"alt="css3 badge" width= "80" height="30"> 
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript badge" width= "80" height="30">
+  <img src="https://img.shields.io/badge/SQL-007396?style=for-the-badge&logo=java&logoColor=white" alt="SQL badge" width="80" height="30">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white" alt="GitHub badge" width="80" height="30">
-  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=VSCode&logoColor=white" alt="VSCode badge" width="80" height="30">
   <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java badge" width="80" height="30">
+  
 </p>
 </div>
 <br><br>
