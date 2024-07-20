@@ -19,16 +19,24 @@ Here are some ideas to get you started:
   
 ![header](https://capsule-render.vercel.app/api?type=waving&color=7F7FD5&text=%20KiBeom_Han%20%20&height=200&fontSize=60&fontColor=ffffff) <br> <br>
 
-<p align ="center">
-  <h2 align="center">TECH STACK</h2> <br><br>
-  <img src="https://img.shields.io/badge/html5-E34F26?style=flat&logo=html5&logoColor=white"alt="HTML5 badge" width="80" height="30">
-  <img src="https://img.shields.io/badge/css3-1572B6?style=flat&logo=css3&logoColor=white"alt="css3 badge" width= "80" height="30"> 
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript badge" width= "80" height="30">
-  <img src="https://img.shields.io/badge/SQL-007396?style=for-the-badge&logo=java&logoColor=white" alt="SQL badge" width="80" height="30">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white" alt="GitHub badge" width="80" height="30">
-  <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java badge" width="80" height="30">
-  
-</p>
+
+
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)<br>
+
+
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)<br>
+
+
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)<br>
+
+
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
 </div>
 <br><br>
 
