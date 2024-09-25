@@ -3,7 +3,7 @@
 
 ## 👨‍💻 한기범입니다.
 Email: hgb926@naver.com <br/>
-Instagram: http://instagram.com/gksrlqja_
+Instagram: http://instagram.com/gksrlqja_ <br/>
 Blog: https://velog.io/@hgb926/posts
 
 ---
