@@ -2,7 +2,7 @@
 
 
 ## 👨‍💻 한기범입니다.
-Email: hgb926@naver.com
+Email: hgb926@naver.com <br/>
 Portfolio: [Notion Link](#)  
 Blog: https://velog.io/@hgb926/posts
 
