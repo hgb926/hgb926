@@ -1,10 +1,13 @@
+<head>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+</head>
 <div align="center">
 
 
 ## 👨‍💻 한기범입니다.
-Email: hgb926@naver.com <br/>
-Instagram: http://instagram.com/gksrlqja_ <br/>
-Blog: https://velog.io/@hgb926/posts
+📧 Email: hgb926@naver.com  
+📸 Instagram: [instagram.com/gksrlqja_](http://instagram.com/gksrlqja_)  
+✍️ Blog: [velog.io/@hgb926/posts](https://velog.io/@hgb926/posts)
 
 ---
 
