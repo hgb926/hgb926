@@ -37,6 +37,12 @@
 ![Git](https://img.shields.io/badge/git-F05033?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)
 
+### Others
+![Redux](https://img.shields.io/badge/redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![React Router](https://img.shields.io/badge/react_router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+![SCSS](https://img.shields.io/badge/scss-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![QueryDSL](https://img.shields.io/badge/querydsl-0769AD?style=for-the-badge&logo=java&logoColor=white)
+
 ---
 
 ## 🗂️ 주로 사용하는 언어
